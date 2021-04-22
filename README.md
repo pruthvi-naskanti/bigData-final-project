@@ -102,9 +102,9 @@ sns.barplot(xlabel, ylabel, data=df, palette="Paired").set_title(title)
 
 ```
 ## Charting result
-- ![](https://github.com/nrajubn/bigdataproject/blob/main/big19.PNG)
+- ![](https://github.com/pruthvi-naskanti/bigData-final-project/blob/main/countbigData.JPG?raw=true)
 
-- ![](https://github.com/nrajubn/bigdataproject/blob/main/big191.PNG)
+- ![]()
 
 
 ## References 
