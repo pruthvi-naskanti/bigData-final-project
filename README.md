@@ -2,7 +2,7 @@
 This repo is all about processing text data using Spark and Python.
 
 ## Author 
-- Pruthvi Naskanti
+- [Pruthvi Naskanti](https://github.com/pruthvi-naskanti)
 
 ## Source of text
 - https://www.gutenberg.org/
